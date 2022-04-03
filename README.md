@@ -5,17 +5,17 @@ It is specifically customised to use the following:
 
 ## Key Tools
 
-- [TypeScript](https://www.typescriptlang.org)
-- [Router](<https://reactrouter.com)
-- [Moralis] (https://moralis.io/)
-- [React-Moralis] (https://www.npmjs.com/package/react-moralis)
-- [TailwindCSS] (https://tailwindcss.com)
-- [HeadlessUI] (https://headlessui.dev)
-- [WalletConnect] (https://walletconnect.org)
-- [Web3] (https://web3js.readthedocs.io)
-- [React-app-rewire] (https://www.npmjs.com/package/react-app-rewire)
-- [React-reveal] (https://www.npmjs.com/package/react-reveal)
-- [React-alert] (https://www.npmjs.com/package/react-alert)
+- [TypeScript](https://www.typescriptlang.org)  
+- [Router](https://reactrouter.com)  
+- [Moralis](https://moralis.io/)  
+- [React-Moralis](https://www.npmjs.com/package/react-moralis)  
+- [TailwindCSS](https://tailwindcss.com)  
+- [HeadlessUI](https://headlessui.dev)  
+- [WalletConnect](https://walletconnect.org)  
+- [Web3](https://web3js.readthedocs.io)  
+- [React-app-rewire](https://www.npmjs.com/package/react-app-rewire)  
+- [React-reveal](https://www.npmjs.com/package/react-reveal)  
+- [React-alert](https://www.npmjs.com/package/react-alert)  
 
 ## How to use
 
