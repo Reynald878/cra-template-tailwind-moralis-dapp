@@ -35,10 +35,21 @@
       "web-vitals": "^2.1.4",
       "web3": "^1.7.1"
     },
+    "scripts": {
+      "start": "set \"GENERATE_SOURCEMAP=false\" && react-app-rewired start",
+      "build": "react-app-rewired build",
+      "test": "react-app-rewired test",
+      "eject": "react-scripts eject"
+    },
     "browserslist": ["defaults", "not IE 11"],
 
     "eslintConfig": {
       "extends": ["react-app", "react-app/jest"]
+    },
+    "devDependencies": {
+      "autoprefixer": "^10.4.4",
+      "postcss": "^8.4.12",
+      "tailwindcss": "^3.0.23"
     }
   }
 }
