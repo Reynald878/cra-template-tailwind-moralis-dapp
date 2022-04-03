@@ -22,13 +22,13 @@ It is specifically customised to use the following:
 To use this template for your app you run:
 
 ```bash
-npx create-react-app my-app --template cra-react-web3
+npx create-react-app my-app --template tailwind-moralis-dapp
 ```
 
 or
 
 ```bash
-yarn create react-app my-app --template cra-react-web3
+yarn create react-app my-app --template tailwind-moralis-dapp
 ```
 
 ## Learn More
