@@ -1,0 +1,47 @@
+
+{
+  "name": "cra-react-web3",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "DApp",
+    "react-moralis",
+    "web3",
+    "web3-tailwind"
+  ],
+  "description": "A personalised web3 template for Create React App using Moralis, tailwindcss, headlesUI, typescript, react-router and more to come fully configured.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iddriss/cra-web3-template.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/iddriss/cra-web3-template/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "scripts": {
+    "start": "set \"GENERATE_SOURCEMAP=false\" && react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
